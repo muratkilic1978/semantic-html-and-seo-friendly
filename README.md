@@ -67,7 +67,7 @@ For more information about how to optimize SEO on your website please check this
 In this exercise - you will learn how to create a SEO friendly website that responsive image gallery using flexbox using the CSS property **display: flex** container with images.
 
 ## Step - 1
-#### Download/clone this [repo](https://github.com/muratkilic1978/responsive-image-gallery-with-flexbox) to your machine
+#### Download/clone this [repo](https://github.com/muratkilic1978/semantic-html-and-seo-friendly) to your machine
 
 ## Step - 2
 Open the project folder that you downloaded above with your code-editor and click on the **index.html** file. 
